@@ -1,0 +1,23 @@
+{
+  "name": "aslint-wrapper",
+  "version": "1.0.0",
+  "description": "This is npm wrapper for aslint a11y engine",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanDashevsky/aslint-wrapper.git"
+  },
+  "keywords": [
+    "a11y",
+    "engine",
+    "aslint",
+    "wcag"
+  ],
+  "author": "Roman Dashevsky",
+  "license": "Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)",
+  "bugs": {
+    "url": "https://github.com/RomanDashevsky/asl-sc/issues"
+  },
+  "homepage": "https://github.com/RomanDashevsky/asl-sc#readme"
+}
