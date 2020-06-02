@@ -16,6 +16,13 @@ For yarn:
 yarn add aslint-wrapper
 ```
 
+## Structure
+src/index.js - original loader.js file
+
+src/uploaded/loader.js - modified loader.js file, remove save aslint.bundle.js file.
+
+src/uploaded/aslint.bundle.js - original aslint.bundle.js file, use with src/uploaded/loader.js
+
 ## License
 
 Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
