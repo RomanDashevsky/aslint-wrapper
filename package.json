@@ -1,6 +1,6 @@
 {
   "name": "aslint-wrapper",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is npm wrapper for aslint a11y engine",
   "main": "src/index.js",
   "scripts": {},
